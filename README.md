@@ -31,11 +31,11 @@ The Makers Checklist outlines all the steps
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/RC_Car_BOM.xlsx) lists all of the parts and components required to build the Switch Adapted Remote Controlled Car. The main remote controlled car toy needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
+The [Bill of Materials](/Documentation/RC_Car_BOM_v1.0.xlsx) lists all of the parts and components required to build the Switch Adapted Remote Controlled Car. The main remote controlled car toy needs to be ordered online. The rest of the off-the-shelf components are also online or may be available in smaller quantities at your local hardware store or dollar store.
 
 ### 3. Assemble the Switch Adapted Remote Controlled Car
 
-Reference the [Assembly Guide](/Documentation/RC_Car_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
+Reference the [Assembly Guide](/Documentation/RC_Car_Assembly_Guide_v1.0.pdf) for the tools and steps required to adapt this toy.
 
 
 ## Files
@@ -49,11 +49,6 @@ Reference the [Assembly Guide](/Documentation/RC_Car_Assembly_Guide_v1.0.pdf) fo
 | User Guide           | 1.0     | [RC_Car_User_Guide](/Documentation/RC_Car_User_Guide_v1.0.pdf)    |
 | Changelog            | 1.0     | [RC_Car_Changelog](/Documentation/RC_Car_Changelog_v1.0.pdf)     |
 
-### Design Files
-[CAD Files](/Design_Files)
-
-### Build Files
- - [3D Printing Files](/Build_Files/3D_Printing)
 
 ## Attribution
 Modification method and documentation created by Neil Squire / Makers Making Change.
