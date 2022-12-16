@@ -27,7 +27,7 @@ If you have the skills and equipment to build this device, and would like to don
 
 ### 1. Read the Makers Checklist
 
-The Makers Checklist outlines all the steps 
+The Makers Checklist contains a list of tasks to complete to build the device. 
 
 ### 2. Order the Off-The-Shelf Components
 
